@@ -6,6 +6,6 @@ Here you can find some information about the things I am working on. Currently I
 
 ## Some stats 🥇
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucatauer&theme=midnight-purple&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucatauer&theme=jolly&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucatauer&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucatauer&theme=jolly)
