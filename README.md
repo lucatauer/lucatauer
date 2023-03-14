@@ -1,10 +1,8 @@
 # Hello there! 👽
 
-
 ## About me 📝
 
 Here you can find some information about the things I am working on. Currently I am working on my first browser extensions, which will help you to find good trades on CSGO bot trading sites like dmarket.com and cs.money.
-
 
 ## Some stats 🥇
 
